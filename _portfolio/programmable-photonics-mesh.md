@@ -5,7 +5,7 @@ excerpt: |
     <img src="/images/dual-mode-photonic-switch.png" alt="Dual-mode integrated photonic switch concept and simulated mode profiles">
   </figure>
 
-  Design and analysis of scalable silicon photonic MZI meshes for spatial-mode switching and integrated quantum photonics. IPCS Lab, IIT (ISM) Dhanbad. July 2025 - Present.
+  Designed Clements MZI meshes for dual-mode and higher-order spatial-mode switching, with GDS layout and post-layout analysis in KLayout. Current work investigates Gaussian Boson Sampling; related 10 GHz OOK link analysis uses eye diagrams and BER across 8x8 thermo-optic MZI switch configurations. IPCS Lab, IIT (ISM) Dhanbad. July 2025 - Present.
 collection: portfolio
 ---
 

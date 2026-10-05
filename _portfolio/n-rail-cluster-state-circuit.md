@@ -5,7 +5,7 @@ excerpt: |
     <img src="/images/n-rail-cluster-state.png" alt="Concept diagram for programmable n-rail cluster-state generation">
   </figure>
 
-  Integrated photonic circuits for continuous-variable frequency-bin cluster states, with entanglement verification and analysis of fabrication-induced noise. FOS Lab, IIT Kharagpur. May 2026 - October 2026.
+  Integrated photonic circuits for programmable continuous-variable cluster states encoded across frequency bins. Generated 0D-3D states from EPR inputs in Strawberry Fields, checked entanglement with the VLF criteria, and analysed fabrication loss and power imbalance effects on noise and nullifier variances. FOS Lab, IIT Kharagpur. May 2026 - October 2026.
 collection: portfolio
 ---
 

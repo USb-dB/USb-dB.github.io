@@ -5,7 +5,7 @@ excerpt: |
     <img src="/images/rram-memory-controller.png" alt="RRAM analog-interface simulation, crossbar controller diagram, and waveform">
   </figure>
 
-  Low-power, high-speed read/write schemes for non-volatile-memory crossbars targeting DNN acceleration. IIT Bombay. May 2025 - July 2025.
+  Built a Verilog FSM controller for an 8x8 RRAM crossbar on the DE0-Nano FPGA, separating control and pulse-generation clocks. Experimental work redesigned the analog read path and demonstrated sensing from a 5 ns read pulse. IIT Bombay. May 2025 - July 2025.
 collection: portfolio
 ---
 
